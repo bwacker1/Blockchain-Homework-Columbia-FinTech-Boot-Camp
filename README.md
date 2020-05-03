@@ -23,15 +23,15 @@
 
 ## Accounts:
 * znode1 
-** password = zbank
-** Public address of the key:   0xEdf2aC0D77A16B4E1dd17224129cDcF1e0525a29
-** Path of the secret key file: znode1/keystore/UTC--2020-05-03T02-32-05.598612000Z--edf2ac0d77a16b4e1dd17224129cdcf1e0525a29
-** Port: 30303
+ * password = zbank
+ * Public address of the key:   0xEdf2aC0D77A16B4E1dd17224129cDcF1e0525a29
+ * Path of the secret key file: znode1/keystore/UTC--2020-05-03T02-32-05.598612000Z--edf2ac0d77a16b4e1dd17224129cdcf1e0525a29
+ * Port: 30303
 
 * znode2 
-** password = zbank
-** Public address of the key:   0x376454e075D4bEB0cd60e42001ea85D0DE33aCC8
-** Path of the secret key file: znode2/keystore/UTC--2020-05-03T02-32-38.828197000Z--376454e075d4beb0cd60e42001ea85d0de33acc8
-** Port: 30304
+ * password = zbank
+ * Public address of the key:   0x376454e075D4bEB0cd60e42001ea85D0DE33aCC8
+ * Path of the secret key file: znode2/keystore/UTC--2020-05-03T02-32-38.828197000Z--376454e075d4beb0cd60e42001ea85d0de33acc8
+ * Port: 30304
 
 
